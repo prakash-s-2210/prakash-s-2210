@@ -1,5 +1,4 @@
-
-[![MasterHead](https://www.servermania.com/kb/wp-content/uploads/2022/04/KB-MERN-Featured.jpg)](https://rishavchanda.io)
+![wallpaper](https://github.com/prakash-s-2210/prakash-s-2210/assets/94909544/0bccae90-cf6e-47be-b6bb-8d2c5586d4a2)
 <h1 align="center">Hi 👋, I'm Prakash S</h1>
 <h3 align="center">MERN Stack Developer - Building robust web applications with MongoDB, Express, React, and Node.js.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
