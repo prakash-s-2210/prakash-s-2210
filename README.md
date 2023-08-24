@@ -1,15 +1,14 @@
-![wallpaper](https://github.com/prakash-s-2210/prakash-s-2210/assets/94909544/1bff4eb0-8432-46b6-adf7-1abb8e98cf2f)
 ![github_wallpaper](https://github.com/prakash-s-2210/prakash-s-2210/assets/94909544/c03c585b-c4db-4272-a488-bb569ebf9372)
 <h1 align="center">Hi 👋, I'm Prakash S</h1>
-<h3 align="center">MERN Stack Developer - Building robust web applications with MongoDB, Express, React, and Node.js.</h3>
+<h3 align="center">Full Stack Developer - Building robust web applications with Next.JS, React, Redux, TypeScript, JavaScript, Node.js, Express, MongoDB, NoSQL, MSSQL.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash-s-2210&label=Profile%20views&color=0e75b6&style=flat" alt="prakash-s-2210" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS, Express, MongoDB**
+- 🌱 I’m currently learning **Data Structure and Algorithms**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Next.JS**
 
 - 📫 How to reach me **sbprakash2210@gmail.com**
 
