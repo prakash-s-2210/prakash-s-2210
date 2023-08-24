@@ -1,4 +1,5 @@
 ![wallpaper](https://github.com/prakash-s-2210/prakash-s-2210/assets/94909544/1bff4eb0-8432-46b6-adf7-1abb8e98cf2f)
+![github_wallpaper](https://github.com/prakash-s-2210/prakash-s-2210/assets/94909544/c03c585b-c4db-4272-a488-bb569ebf9372)
 <h1 align="center">Hi 👋, I'm Prakash S</h1>
 <h3 align="center">MERN Stack Developer - Building robust web applications with MongoDB, Express, React, and Node.js.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
